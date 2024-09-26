@@ -132,6 +132,23 @@ section h2 {
 }
 
 /* Liên Hệ */
+#contact {
+    background-color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+#contact h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+#contact p {
+    font-size: 1.2em;
+    color: #555;
+}
+
 #contact a {
     color: #007BFF;
     text-decoration: none;
@@ -140,6 +157,7 @@ section h2 {
 #contact a:hover {
     text-decoration: underline;
 }
+
 
 /* Footer */
 footer {
