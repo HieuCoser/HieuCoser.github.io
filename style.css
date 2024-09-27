@@ -20,6 +20,14 @@ body {
     padding: 20px 0;
 }
 
+.container_1,p {
+    width: 90%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px 0;
+    text-align: center;
+}
+
 /* Header */
 header {
     background-color: #333;
