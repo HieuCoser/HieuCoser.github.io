@@ -20,7 +20,7 @@ body {
     padding: 20px 0;
 }
 
-.container_1,p {
+.container_1 {
     width: 90%;
     max-width: 1200px;
     margin: auto;
