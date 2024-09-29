@@ -24,6 +24,10 @@ body {
     text-align: center;
 }
 
+.cnt, li{
+    text-align: left;
+}
+
 /* Header */
 header {
     background-color: #333;
