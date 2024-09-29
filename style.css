@@ -12,8 +12,13 @@ body {
     color: #333;
 }
 
-/* Container chung */
+.container-group {
+    display: flex;
+    gap: 20px;
+}
+
 .container {
+    flex: 1;
     width: 90%;
     max-width: 1200px;
     margin: auto;
