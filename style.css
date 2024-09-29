@@ -19,10 +19,24 @@ body {
 
 .container {
     flex: 1;
+    background-color: #f0f0f0;
     width: 90%;
     max-width: 1200px;
     margin: auto;
     padding: 20px 0;
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2); 
+    border-radius: 8px;
+    transition: box-shadow 0.3s ease;
+}
+
+.container:hover {
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+h2 {
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
 }
 
 .cnt {
