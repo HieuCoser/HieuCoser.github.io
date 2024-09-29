@@ -42,10 +42,10 @@ body {
     box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
 }
 
-/* h2 {
+.tt {
     border-bottom: 2px solid #ccc;
     padding-bottom: 10px;
-} */
+}
 
 .cnt {
     text-align: center;
